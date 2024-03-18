@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/mehrabmunna/Level-2/mission8-nextjs/ph-health-care/HealthCare-Server/logs/winston/errors/.1c297791a19f203814511a3bb9e44054ee3ec131-audit.json",
+    "files": [
+        {
+            "date": 1710785594727,
+            "name": "/home/mehrabmunna/Level-2/mission8-nextjs/ph-health-care/HealthCare-Server/logs/winston/errors/phu-2024-19-03-00-error.log",
+            "hash": "ac93c0228478dd486e54e12c53181309e5e9f9b8cc265bd015164c448fef24db"
+        }
+    ],
+    "hashType": "sha256"
+}
