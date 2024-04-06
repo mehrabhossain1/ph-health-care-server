@@ -13,6 +13,7 @@ router.get('/', SpecialtiesController.getAllFromDB);
 router.post(
   '/',
   // comment
+  // comment
   // auth(ENUM_USER_ROLE.SUPER_ADMIN, ENUM_USER_ROLE.ADMIN, ENUM_USER_ROLE.DOCTOR),
   FileUploadHelper.upload.single('file'),
   (req: Request, res: Response, next: NextFunction) => {
